@@ -6,7 +6,7 @@ Regra de arquitetura: **a AI lê, diagnostica e propõe; o CLP e o robô executa
 ## Status
 - **Etapa:** 1 · Automação
 - **Sprint:** 01 · Fundamentos de CLP
-- **Início:** AAAA-MM-DD
+- **Início:** 2026-10-01
 
 ## Etapas
 
