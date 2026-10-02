@@ -1,6 +1,6 @@
 # Etapa 1 · Automação
 
-- **Início:2026-10-01** · **Fim:** · **Sprints:** 1–3 (semanas 1–6)
+- **Início:** 2026-10-01· **Fim:** · **Sprints:** 1–3 (semanas 1–6)
 
 ## Objetivo
 Linha de classificação no Factory I/O controlada por CODESYS, com máquina de estados, alarmes, intertravamentos e variáveis expostas via OPC UA, robusta o bastante para rodar sozinha e falhar de forma previsível.
