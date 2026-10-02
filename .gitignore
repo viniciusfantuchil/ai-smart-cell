@@ -1,0 +1,20 @@
+# CODESYS
+*.bak
+*.precompilecache
+*.compileinfo
+*.opt
+*.~u
+plc/**/*.project.*.bak
+# Python (Etapa 2)
+__pycache__/
+*.pyc
+.venv/
+.env
+# ROS 2 (Etapa 3)
+robot/build/
+robot/install/
+robot/log/
+# Dados grandes ficam fora do Git
+*.mcap
+*.db
+datasets/
