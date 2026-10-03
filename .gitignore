@@ -5,6 +5,9 @@
 *.opt
 *.~u
 plc/**/*.project.*.bak
+*.bootinfo
+*.bootinfo_guids
+*_RECOVERED_*
 # Python (Etapa 2)
 __pycache__/
 *.pyc
