@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <project xmlns="http://www.plcopen.org/xml/tc6_0200">
-  <fileHeader companyName="" productName="CODESYS" productVersion="CODESYS V3.5 SP22 Patch 3" creationDateTime="2026-10-03T11:56:44.8088927" />
-  <contentHeader name="SmartCell.project" modificationDateTime="2026-10-03T11:55:13.0727852">
+  <fileHeader companyName="" productName="CODESYS" productVersion="CODESYS V3.5 SP22 Patch 3" creationDateTime="2026-10-03T12:06:47.2970012" />
+  <contentHeader name="SmartCell.project" modificationDateTime="2026-10-03T12:04:09.3525322">
     <coordinateInfo>
       <fbd>
         <scaling x="1" y="1" />
@@ -66,7 +66,7 @@
               <body>
                 <ST>
                   <xhtml xmlns="http://www.w3.org/1999/xhtml">
-tonPisca(IN := NOT tonPisca.Q, PT := T#500MS);
+tonPisca(IN := NOT tonPisca.Q, PT := T#1S);
 IF tonPisca.Q THEN
     xLampada := NOT xLampada;
 END_IF</xhtml>
